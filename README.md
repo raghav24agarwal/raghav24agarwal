@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav24agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="raghav24agarwal" /> </p>
 
-- 🔭 I’m currently working with **DELL Technologies**
+- 🔭 I’m currently working with **Akamai Technologies**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Gen AI**
 
 - 💬 Ask me about **Python, React & Django**
 
